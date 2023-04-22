@@ -21,6 +21,19 @@ We always advise planning moves to achieve the project before jumping in coding.
 
 Once the project is completed, create a pull request from your fork and add me as a reviewer.
 
+# Details Step for beginners
+
+- Create a new folder
+- Install Flask
+- Look at the doc to find a simple flask example to create a view and display some html
+- Link a CSS file to the HTML file 
+- Create a template for each view and link pages together via simple anchor tags
+- Create the final HTML template for the hot drink list view by adding images in the template and style in the css
+- https://pythonhow.com/python-tutorial/flask/Adding-CSS-styling-to-your-website/
+- https://www.w3schools.com/html/
+- https://www.w3schools.com/css/
+- https://www.w3schools.com/js/
+
 Good luck!
 
 > If you want to keep this project in your portfolio, please create another README.md and delete the images folder in this repo
